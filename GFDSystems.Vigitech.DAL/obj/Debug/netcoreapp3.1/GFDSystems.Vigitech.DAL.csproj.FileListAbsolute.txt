@@ -1,0 +1,12 @@
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.deps.json
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.dll
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.pdb
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.csprojAssemblyReference.cache
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.AssemblyInfoInputs.cache
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.AssemblyInfo.cs
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.dll
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.pdb
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.runtimeconfig.json
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.runtimeconfig.dev.json
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.genruntimeconfig.cache
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAL\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.csproj.CoreCompileInputs.cache

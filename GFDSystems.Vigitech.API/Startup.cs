@@ -150,7 +150,7 @@ namespace GFDSystems.Vigitech.API
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddSwaggerGen();
-            AddSwagger(services);
+            AddSwagger(services); 
         }
 
 

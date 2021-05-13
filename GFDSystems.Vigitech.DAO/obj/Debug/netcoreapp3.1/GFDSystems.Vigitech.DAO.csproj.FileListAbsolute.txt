@@ -1,0 +1,12 @@
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.csprojAssemblyReference.cache
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.AssemblyInfoInputs.cache
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.AssemblyInfo.cs
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.deps.json
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.dll
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.pdb
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.dll
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.pdb
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.dll
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\bin\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAL.pdb
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.csproj.CopyComplete
+F:\Ryzen PC\Escritorio\GFDSystems\ApiRest\GFDSystems.Vigitech.DAO\obj\Debug\netcoreapp3.1\GFDSystems.Vigitech.DAO.csproj.CoreCompileInputs.cache
