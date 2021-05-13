@@ -27,7 +27,7 @@ namespace GFDSystems.Vigitech.DAO.MongoDB
             _DbContext = DbContext;
         }
         public IList<LocationResponse> GetAll()
-        {
+        { 
             DateTime fecha = DateTime.Now;
             string day = fecha.ToShortDateString().Substring(0, 2);
             string mont = fecha.ToShortDateString().Substring(3, 2);
