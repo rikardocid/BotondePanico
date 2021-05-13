@@ -127,7 +127,7 @@ namespace GFDSystems.Vigitech.API
             services.AddScoped<IRoleManagerRepository, RoleManagerRepository>();
             services.AddScoped<IProfileDAO, ProfileDAO>();
             services.AddScoped<IVehicleDeviceDAO, VehicleDeviceDAO>();
-            //END
+            //ENDasdf
 
             services.AddScoped<IAuthorizationHandler, CustomRequireClaimHandler>();
 
